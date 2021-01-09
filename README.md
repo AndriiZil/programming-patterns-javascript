@@ -5,9 +5,9 @@
 * Prototype
 * Singleton
 #### Structural
-* 
-* 
-* 
+* Adapter
+* Decorator
+* Facade
 * 
 * 
 * 
